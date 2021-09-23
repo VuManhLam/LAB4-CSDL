@@ -1,0 +1,32 @@
+E:\lập trình CSDL\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\bin\Debug\netcoreapp3.1\Quan ly sinh vien.exe
+E:\lập trình CSDL\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\bin\Debug\netcoreapp3.1\Quan ly sinh vien.deps.json
+E:\lập trình CSDL\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\bin\Debug\netcoreapp3.1\Quan ly sinh vien.runtimeconfig.json
+E:\lập trình CSDL\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\bin\Debug\netcoreapp3.1\Quan ly sinh vien.runtimeconfig.dev.json
+E:\lập trình CSDL\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\bin\Debug\netcoreapp3.1\Quan ly sinh vien.dll
+E:\lập trình CSDL\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\bin\Debug\netcoreapp3.1\Quan ly sinh vien.pdb
+E:\lập trình CSDL\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan ly sinh vien.csproj.AssemblyReference.cache
+E:\lập trình CSDL\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan_ly_sinh_vien.Form1.resources
+E:\lập trình CSDL\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan ly sinh vien.csproj.GenerateResource.cache
+E:\lập trình CSDL\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan ly sinh vien.GeneratedMSBuildEditorConfig.editorconfig
+E:\lập trình CSDL\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan ly sinh vien.AssemblyInfoInputs.cache
+E:\lập trình CSDL\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan ly sinh vien.AssemblyInfo.cs
+E:\lập trình CSDL\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan ly sinh vien.csproj.CoreCompileInputs.cache
+E:\lập trình CSDL\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan ly sinh vien.dll
+E:\lập trình CSDL\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan ly sinh vien.pdb
+E:\lập trình CSDL\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan ly sinh vien.genruntimeconfig.cache
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\bin\Debug\netcoreapp3.1\Quan ly sinh vien.exe
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\bin\Debug\netcoreapp3.1\Quan ly sinh vien.deps.json
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\bin\Debug\netcoreapp3.1\Quan ly sinh vien.runtimeconfig.json
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\bin\Debug\netcoreapp3.1\Quan ly sinh vien.runtimeconfig.dev.json
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\bin\Debug\netcoreapp3.1\Quan ly sinh vien.dll
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\bin\Debug\netcoreapp3.1\Quan ly sinh vien.pdb
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan ly sinh vien.csproj.AssemblyReference.cache
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan_ly_sinh_vien.Form1.resources
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan ly sinh vien.csproj.GenerateResource.cache
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan ly sinh vien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan ly sinh vien.AssemblyInfoInputs.cache
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan ly sinh vien.AssemblyInfo.cs
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan ly sinh vien.csproj.CoreCompileInputs.cache
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan ly sinh vien.dll
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan ly sinh vien.pdb
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan ly sinh vien.genruntimeconfig.cache

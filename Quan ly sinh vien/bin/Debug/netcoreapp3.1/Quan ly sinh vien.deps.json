@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Quan ly sinh vien/1.0.0": {
+        "runtime": {
+          "Quan ly sinh vien.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quan ly sinh vien/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\bin\Debug\netcoreapp3.1\QLSinhVien.exe
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\bin\Debug\netcoreapp3.1\QLSinhVien.deps.json
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\bin\Debug\netcoreapp3.1\QLSinhVien.runtimeconfig.json
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\bin\Debug\netcoreapp3.1\QLSinhVien.runtimeconfig.dev.json
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\bin\Debug\netcoreapp3.1\QLSinhVien.dll
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\bin\Debug\netcoreapp3.1\QLSinhVien.pdb
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\QLSinhVien.csproj.GenerateResource.cache
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\QLSinhVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\QLSinhVien.AssemblyInfoInputs.cache
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\QLSinhVien.AssemblyInfo.cs
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\QLSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\QLSinhVien.dll
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\QLSinhVien.pdb
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\QLSinhVien.genruntimeconfig.cache
+C:\Users\19111\OneDrive\Máy tính\1910128_PhanQuocHuy_Lab04\Quan ly sinh vien\Quan ly sinh vien\obj\Debug\netcoreapp3.1\Quan_ly_sinh_vien.frmQuanli.resources
